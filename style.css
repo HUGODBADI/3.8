@@ -1,0 +1,49 @@
+body {
+    background-color: beige;
+}
+
+header.cabeza{
+    color: darkred;
+}
+
+main.main {
+    display: inline-block
+}
+
+p.arrafo {
+    color: crimson;
+    font-weight: bold;
+}
+
+div.caja1 {
+    width: 200px;
+    height: 200px;
+    ;
+}
+
+div.caja1 {
+    width: 200px;
+    height: 200px;
+    ;
+}
+
+div.caja1 {
+    width: 200px;
+    height: 200px;
+    ;
+}
+
+center.Elcontacto {
+    left: 800px;
+    position: relative;
+}
+
+center.Elcontacto {
+    left: 800px;
+    position: relative;
+}
+
+center.Elmenu {
+    right: 800px;
+    position: relative;
+}
